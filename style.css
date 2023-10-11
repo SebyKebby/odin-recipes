@@ -1,0 +1,25 @@
+p {
+    color: purple
+}
+
+h1 {
+    background-color: lightgreen;
+    text-align: center;
+    color: red;
+}
+
+h2{
+    color: aliceblue;
+    background-color: black;
+}
+
+.step,
+.ingredients
+    {
+        color:wheat;
+        background-color: black;
+    }
+img {
+    height: auto;
+    width: 500px;
+}
